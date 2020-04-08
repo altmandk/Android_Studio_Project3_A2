@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Chicago Restaurants and Attractions</string>
+
+    <string-array name="Attractions">
+        <item>Navy Pier</item>
+        <item>Museum of Science and Industry</item>
+        <item>Willis Tower</item>
+        <item>Field Museum</item>
+        <item>The Art Institute of Chicago</item>
+        <item>Shedd Aquarium</item>
+        <item>Lincoln Park Zoo</item>
+        <item>Adler Planetarium</item>
+    </string-array>
+    <string-array name="AttractionsWeb">
+        <item>https://navypier.org/</item>
+        <item>https://www.msichicago.org/</item>
+        <item>https://www.willistower.com/</item>
+        <item>https://www.fieldmuseum.org/</item>
+        <item>https://www.artic.edu/</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>https://www.lpzoo.org/</item>
+        <item>https://www.adlerplanetarium.org/</item>
+    </string-array>
+    <string-array name="Restaurants">
+        <item>Girl  The Goat</item>
+        <item>Gibsons Steak House</item>
+        <item>Batter and Berries</item>
+        <item>Lou Malnati\'s Pizzeria</item>
+        <item>Al\'s Beef</item>
+        <item>Chicago q</item>
+        <item>Portillo\'s</item>
+        <item>Picollo Sogno</item>
+    </string-array>
+    <string-array name="RestaurantsWeb">
+        <item>https://girlandthegoat.com/</item>
+        <item>https://www.gibsonssteakhouse.com/</item>
+        <item>https://batterandberries.com/</item>
+        <item>https://www.loumalnatis.com/</item>
+        <item>https://www.alsbeef.com/</item>
+        <item>https://chicagoqrestaurant.com/</item>
+        <item>https://www.portillos.com/index.html</item>
+        <item>https://www.piccolosognorestaurant.com/</item>
+    </string-array>
+</resources>
